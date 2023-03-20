@@ -22,6 +22,10 @@
   # Entrar no diretório web
 
   $ cd businessCardGenerator/web
+  
+   # Instalando as dependências
+   
+  $ yarn 
 
   # Iniciar web
 
@@ -30,6 +34,10 @@
   # Entrar no diretório server
   
   $ cd businessCardGenerator/server
+  
+  # Instalar as dependências
+   
+  $ yarn 
   
   # Iniciar server
 
