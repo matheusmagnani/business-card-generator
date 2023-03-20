@@ -5,7 +5,7 @@ import { SaveUserRequestBody } from "../dto/saveUserRequest.dto";
 import { fetchGithubUserImageUrl } from "../helpers/fetchGithubUserImageUrl";
 import slugify from 'slugify'
 
-const DEFAULT_SITE_URL = 'http://localhost:5175';
+const DEFAULT_SITE_URL = 'http://localhost:5173';
 const prisma = new PrismaClient();
 export default class UserController {
   static async getSingleUserInfo(request: Request, response: Response) {
