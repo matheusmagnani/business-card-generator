@@ -17,7 +17,7 @@
 
   # Clonar o projeto:
 
-  $ git clone https://github.com/matheusmagnani/businessCardGenerator
+  $ git clone https://github.com/matheusmagnani/business-card-generator
 
   # Entrar no diretório web
 
